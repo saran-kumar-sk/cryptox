@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Kinn';
+    src: local('Kinn Heavy'), local('Kinn-Heavy'),
+        url('../../assets/fonts/Kinn-Heavy.woff2') format('woff2'),
+        url('../../assets/fonts/Kinn-Heavy.woff') format('woff'),
+        url('../../assets/fonts/Kinn-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+  }
+
+html, body {
+    background-color: #000 !important;
+    color: #fff !important;
+}
